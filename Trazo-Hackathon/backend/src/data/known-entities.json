@@ -1,0 +1,17 @@
+[
+  { "nit": "899999061", "name": "Bogotá D.C. (Distrito Capital)", "meta": "Distrito, Cundinamarca" },
+  { "nit": "890905211", "name": "Medellín (Distrito Especial de Ciencia, Tecnología e Innovación)", "meta": "Distrito, Antioquia" },
+  { "nit": "890399011", "name": "Alcaldía de Santiago de Cali", "meta": "Municipio, Valle del Cauca" },
+  { "nit": "890102018", "name": "Alcaldía Distrital de Barranquilla", "meta": "Distrito, Atlántico" },
+  { "nit": "890480024", "name": "Alcaldía de Cartagena de Indias", "meta": "Distrito, Bolívar" },
+  { "nit": "890201230", "name": "Alcaldía de Bucaramanga", "meta": "Municipio, Santander" },
+  { "nit": "890980040", "name": "Gobernación de Antioquia", "meta": "Departamento" },
+  { "nit": "890399029", "name": "Gobernación del Valle del Cauca", "meta": "Departamento" },
+  { "nit": "899999114", "name": "Gobernación de Cundinamarca", "meta": "Departamento" },
+  { "nit": "899999068", "name": "Ministerio de Hacienda y Crédito Público", "meta": "Nivel nacional" },
+  { "nit": "899999001", "name": "Ministerio de Educación Nacional", "meta": "Nivel nacional" },
+  { "nit": "899999002", "name": "Ministerio de Salud y Protección Social", "meta": "Nivel nacional" },
+  { "nit": "899999239", "name": "Instituto Colombiano de Bienestar Familiar (ICBF)", "meta": "Nivel nacional" },
+  { "nit": "800197268", "name": "Dirección de Impuestos y Aduanas Nacionales (DIAN)", "meta": "Nivel nacional" },
+  { "nit": "899999119", "name": "Presidencia de la República", "meta": "Nivel nacional" }
+]

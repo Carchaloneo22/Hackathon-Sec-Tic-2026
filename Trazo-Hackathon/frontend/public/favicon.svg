@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#0d0d0f"/>
+  <g stroke-linecap="round">
+    <line x1="32" y1="30" x2="16" y2="18" stroke="#4f7cff" stroke-width="2" opacity="0.7"/>
+    <line x1="32" y1="30" x2="48" y2="20" stroke="#3ddc84" stroke-width="2" opacity="0.7"/>
+    <line x1="32" y1="30" x2="46" y2="44" stroke="#ffcc4d" stroke-width="2" opacity="0.7"/>
+    <line x1="32" y1="30" x2="18" y2="46" stroke="#ff5c5c" stroke-width="2" opacity="0.7"/>
+  </g>
+  <circle cx="16" cy="18" r="5" fill="#4f7cff"/>
+  <circle cx="48" cy="20" r="4.5" fill="#3ddc84"/>
+  <circle cx="46" cy="44" r="4" fill="#ffcc4d"/>
+  <circle cx="18" cy="46" r="5" fill="#ff5c5c">
+    <animate attributeName="opacity" values="1;0.55;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="32" cy="30" r="7" fill="#863bff"/>
+</svg>
